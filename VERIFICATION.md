@@ -7,8 +7,8 @@
 - Formulário de contacto mostrou confirmação de simulação sem enviar mensagem.
 - Sem erros de JavaScript nos registos do navegador durante estes testes.
 - Imagens externas verificadas por HTTP; uma imagem indisponível foi substituída.
-- Layout responsivo implementado com grelhas de duas colunas em ecrãs estreitos e menu móvel. Teste automático dedicado a 390 px não concluído: o Edge headless não arrancou neste ambiente.
+- Página inicial verificada a 390 px, sem transbordo horizontal. Menu móvel abre e permite navegar para a coleção.
 
 Publicação: https://vela-ascen.vercel.app
 
-O repositório remoto GitHub e a sua ligação à Vercel dependem da ligação da conta GitHub. O repositório Git local contém o código completo.
+Repositório GitHub: https://github.com/1AndreFilipe/vela-ascen — ligado ao projeto Vercel para publicação automática.

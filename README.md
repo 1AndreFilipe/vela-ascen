@@ -19,8 +19,8 @@ Node.js 22 ou superior. Instalar dependências com `npm install`, executar `npm 
 
 ## Publicação
 
-Importar este diretório como repositório GitHub e ligar o projeto Vercel `vela-ascen`, framework Next.js. Não são necessárias variáveis de ambiente ou serviços de pagamento. A ligação Git permite publicações automáticas em cada push.
+Site: https://vela-ascen.vercel.app · Repositório: https://github.com/1AndreFilipe/vela-ascen. O projeto Vercel `vela-ascen` está ligado à branch `main`. Cada push publica automaticamente. Não são necessárias variáveis de ambiente ou serviços de pagamento.
 
 ## Dados e imagens
 
-Os dados estão em `lib/products.ts`; os componentes reutilizáveis em `components/`. As imagens ilustrativas são carregadas do Unsplash e não representam produtos comerciais da VELA. Não são usadas ferramentas de analytics. O browser guarda apenas os identificadores, variantes, quantidades e favoritos na chave `vela-store-v1`. O formulário de contacto não transmite dados.
+Os dados estão em `lib/products.ts`; os componentes reutilizáveis em `components/`. A fotografia da Mala Luna foi gerada para este projeto; as restantes imagens ilustrativas são carregadas do Unsplash. Consulte ASSETS.md. Não são usadas ferramentas de analytics. O browser guarda apenas os identificadores, variantes, quantidades e favoritos na chave `vela-store-v1`. O formulário de contacto não transmite dados.
